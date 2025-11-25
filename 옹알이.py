@@ -21,4 +21,4 @@ def solution(babbling):
     else : 
        if word.strp() == '':
           ans +=1
-  return ans
+  return ans d
